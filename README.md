@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DVF98
+- 👋 Hi, I’m Grey!
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently trying to learn any branch of engineering
 - 💞️ I’m looking to collaborate on AOSP and Linux 
